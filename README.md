@@ -1,5 +1,7 @@
 # LsGCM2024
 Large-scale Graph Clustering Method (LsGCM) for Industrial Aluminum Electrolysis Process
+
+
 Interpretation of Program Files: 
 
 1) I_StG.m: Initialization of spatio-temporal graph; 
